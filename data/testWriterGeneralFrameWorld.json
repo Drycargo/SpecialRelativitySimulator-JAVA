@@ -1,0 +1,34 @@
+{
+    "frameList": [
+        {
+            "initialProperTime": 30,
+            "occurTime": 20,
+            "name": "Frame1",
+            "initialVelocity": 0.5,
+            "initialPosX": 10
+        },
+        {
+            "initialProperTime": -7,
+            "occurTime": -8,
+            "name": "Frame2",
+            "initialVelocity": -0.35,
+            "initialPosX": -9
+        }
+    ],
+    "referenceProperTime": 0.49399759807807797,
+    "eventList": [
+        {
+            "occurTime": 20,
+            "name": "Event1",
+            "initialPosX": 10,
+            "initialFrame": "Frame1"
+        },
+        {
+            "occurTime": -10,
+            "name": "Event2",
+            "initialPosX": -6,
+            "initialFrame": "Frame2"
+        }
+    ],
+    "currentReference": "Frame2"
+}

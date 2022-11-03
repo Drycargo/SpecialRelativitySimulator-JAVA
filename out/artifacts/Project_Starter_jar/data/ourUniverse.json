@@ -1,0 +1,17 @@
+{
+    "frameList": [{
+        "initialProperTime": 20,
+        "occurTime": 10,
+        "name": "Frame A",
+        "initialVelocity": 0.5,
+        "initialPosX": 20
+    }],
+    "referenceProperTime": 46,
+    "eventList": [{
+        "occurTime": 8,
+        "name": "Event 1",
+        "initialPosX": 9,
+        "initialFrame": "Frame A"
+    }],
+    "currentReference": "Absolute Stationary Frame"
+}
